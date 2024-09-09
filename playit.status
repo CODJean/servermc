@@ -142,3 +142,24 @@ manufacturer-condo.gl.joinmc.link => 127.0.0.1:15155 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.19): 1723581464712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+program-now.gl.at.ply.gg:65017 => 127.0.0.1:15155 (proto: Both, port count: 1)
+manufacturer-condo.gl.joinmc.link => 127.0.0.1:15155 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723581467773 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+program-now.gl.at.ply.gg:65017 => 127.0.0.1:15155 (proto: Both, port count: 1)
+manufacturer-condo.gl.joinmc.link => 127.0.0.1:15155 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723581470834 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+program-now.gl.at.ply.gg:65017 => 127.0.0.1:15155 (proto: Both, port count: 1)
+manufacturer-condo.gl.joinmc.link => 127.0.0.1:15155 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
